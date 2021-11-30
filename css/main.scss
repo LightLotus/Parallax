@@ -110,3 +110,9 @@ html, body {
     }
 }
 }
+
+@media (max-width: 375px) {
+    .pimg1, .pimg2, .pimg3 {
+        background-attachment: scroll;
+    }
+}
